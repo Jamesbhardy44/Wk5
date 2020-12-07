@@ -1,0 +1,54 @@
+
+{
+    "degrees": [
+    {
+            "School":{ 
+                "name":"Berklee College of Music",    
+                "location": "Boston, Massachusetts",
+                "in_person?": "yes"
+        }
+    },
+        {
+            "Program/Degree":{
+                "name":"Music Business/ Management",
+                "graduated yet?": "yes"
+        } 
+    },      
+        {
+            "Type_of_degree":{
+                "name": "Bachelor_of_Music"
+         }
+    },
+         {
+            "year_conferred":{
+                "year": "2017"
+             }
+         },   
+        
+        {
+            "School":{ 
+                "name":"Boston University",    
+                "location": "Boston, Massachusetts",
+                "in_person?": "No"
+        }
+    },
+        {
+            "Program/Degree":{
+                "name":"Computer Information Systems",
+                "graduated yet?": "No"
+        } 
+    },      
+        {
+            "Type_of_degree":{
+                "name": "Masters of Science"
+         }
+    },
+         {
+            "year_conferred":{
+                "year": "2020 (future)"
+             }
+         }   
+        
+
+    ]
+}
